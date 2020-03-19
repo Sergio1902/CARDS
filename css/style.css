@@ -30,9 +30,12 @@ CARDS -
 .cards{
     background-color: #fff;
     margin: 1rem;
+
     width: 28rem;
     height: 35rem;
+
     overflow: hidden;
+    
     box-shadow: 2px 2px 2px 0 rgba(0, 0, 0, 0.16);
     border-radius: 1.5rem;
     transition: all 0.3s;
@@ -48,7 +51,6 @@ CARDS -
     margin-left: auto;
     margin-right: auto;
     border: 4px solid #fff;
-    z-index: auto;
 }
 .cards .contend{
     text-align: center;
